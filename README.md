@@ -12,8 +12,7 @@ targeted offers to drive sales.
 
 Sample Notebooks demonstrate the use case of clickstream analysis with
 IBM Db2 Event Store using Scala APIs to ingest and analyze web event data.
-Credit goes to [Siva Anne](https://github.com/orgs/IBM-DSE/people) for the
-original Jupyter Notebooks.
+Credit goes to [Siva Anne](https://github.com/annesiva) of the [IBM Data Science Elite Team](https://github.com/orgs/IBM-DSE) for the original Jupyter Notebooks.
 
 <!--
 Available in a free developer edition and an enterprise edition that
@@ -45,7 +44,7 @@ When the reader has completed this code pattern, they will understand how to:
 * [Scala](https://www.scala-lang.org/): Scala combines object-oriented and functional programming in one concise, high-level language.
 
 ## Featured technologies
-* [Databases](https://en.wikipedia.org/wiki/IBM_Information_Management_System#.22Full_Function.22_databases): Repository for storing and managing collections of data.
+* [Databases](https://en.wikipedia.org/wiki/Database): Repository for storing and managing collections of data.
 * [Analytics](https://developer.ibm.com/watson/): Analytics delivers the value of data for the enterprise.
 * [Data Science](https://medium.com/ibm-data-science-experience/): Systems and scientific methods to analyze structured and unstructured data in order to extract knowledge and insights.
 
