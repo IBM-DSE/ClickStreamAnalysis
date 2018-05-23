@@ -99,7 +99,7 @@ Use the Db2 Event Store UI to create the notebook.
 
    ![](doc/source/images/create_notebook.png)
 
-### Run the notebook
+#### Run the notebook
 
 1. Edit the `HOST` constant in the first code cell. You will need to enter your host's IP address in place of the `XXX.XXX.XXX.XXX` value.
 
@@ -121,7 +121,7 @@ Use the Db2 Event Store UI to create the notebook.
 
 * Follow the same steps as above, but select the file `analyze_clickstream_events.ipynb` from your repo's `notebooks` directory.
 
-### Run the notebook
+#### Run the notebook
 
 1. Edit the `HOST` constant in the first code cell. You will need to enter your host's IP address in place of the `XXX.XXX.XXX.XXX` value.
 
@@ -195,8 +195,7 @@ This notebook demonstrates how to:
 
 # Sample output
 
-See the notebook with example output and **interactive charts** [here](http://nbviewer.jupyter.org/github/IBM/db2-event-store-clickstream/blob/ef3dcc206c34214071d3d58e9dc6eb6c8357ded4/data/examples/analyze_clickstream_events.ipynb).
-
+See the notebook with example output and **interactive charts** [here](http://nbviewer.jupyter.org/github/IBM/db2-event-store-clickstream/blob/master/data/examples/analyze_clickstream_events.ipynb).
 
 # Links
 * [**Ingest and Analyze Streaming Event Data at Scale with IBM Db2 EventStore**](http://www.ibmbigdatahub.com/blog/ingest-and-analyze-streaming-event-data-scale-ibm-eventstore)
