@@ -38,10 +38,8 @@ When the reader has completed this code pattern, they will understand how to:
 * [Analytics](https://developer.ibm.com/watson/): Analytics delivers the value of data for the enterprise.
 * [Data Science](https://medium.com/ibm-data-science-experience/): Systems and scientific methods to analyze structured and unstructured data in order to extract knowledge and insights.
 
-<!--
 # Watch the Video
-[![](http://img.youtube.com/vi/7R-Q3bxp2rI/0.jpg)](https://www.youtube.com/watch?v=7R-Q3bxp2rI)
--->
+[![](http://img.youtube.com/vi/XJmRDmZ6VDs/0.jpg)](https://www.youtube.com/watch?v=XJmRDmZ6VDs)
 
 # Steps
 
