@@ -56,7 +56,7 @@ When the reader has completed this code pattern, they will understand how to:
 
 Install IBM® Db2® Event Store Developer Edition on Mac, Linux, or Windows by following the instructions [here.](https://www.ibm.com/support/knowledgecenter/en/SSGNPV/eventstore/desktop/install.html)
 
-> Note: This code pattern was developed with EventStore-DeveloperEdition 1.1.4
+> Note: This code pattern was developed with Event Store Developer Edition 1.1.4
 
 ### 2. Clone the repo
 
@@ -101,7 +101,7 @@ Use the Db2 Event Store UI to create the notebook.
 
 1. Edit the `HOST` constant in the first code cell. You will need to enter your host's IP address in place of the `XXX.XXX.XXX.XXX` value.
 
-1. Run the notebook using the menu `Cell > Run all` or run the cells individually with the play button.
+1. Run the notebook using the menu `Cell` > `Run all` or run the cells individually with the `play` button.
 
 This notebook demonstrates how to:
 
@@ -123,7 +123,7 @@ Use the Db2 Event Store UI to create the notebook.
 
 1. Edit the `HOST` constant in the first code cell. You will need to enter your host's IP address in place of the `XXX.XXX.XXX.XXX` value.
 
-1. Run the notebook using the menu `Cell > Run all` or run the cells individually with the play button.
+1. Run the notebook using the menu `Cell` > `Run all` or run the cells individually with the `play` button.
 
 This notebook demonstrates how to:
 
